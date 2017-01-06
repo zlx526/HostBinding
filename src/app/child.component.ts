@@ -4,7 +4,7 @@ import { Component, HostListener, HostBinding } from '@angular/core';
   selector: 'child',
   template: `
   
-  I am the child
+  I am the child, click me!
  
   `
 })

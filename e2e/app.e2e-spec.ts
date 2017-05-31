@@ -1,10 +1,10 @@
-import { HostBindingPage } from './app.po';
+import { MyprojPage } from './app.po';
 
-describe('host-binding App', function() {
-  let page: HostBindingPage;
+describe('myproj App', () => {
+  let page: MyprojPage;
 
   beforeEach(() => {
-    page = new HostBindingPage();
+    page = new MyprojPage();
   });
 
   it('should display message saying app works', () => {

@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class HostBindingPage {
+export class MyprojPage {
   navigateTo() {
     return browser.get('/');
   }
